@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j-rivera-almeida
-- 👀 I’m interested in Computer Vision, Machine Learning and Full stack web development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ... open to ideas
+- 👀 I’m interested in Machine Learning, Gen AI, and Saas
+- 🌱 I’m currently learning React and FastAPI
+- 💞️ I’m looking to collaborate on Open Source AI models
 - 📫 How to reach me: <a href="www.linkedin.com/in/j-rivera-almeida" >Linkedin</a>.  
 
 <!---
